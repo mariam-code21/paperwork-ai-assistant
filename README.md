@@ -247,7 +247,9 @@ The application can be launched from the notebook through Streamlit and exposed 
 Demo materials:
 
 - Screenshot of the bilingual home page:
-  
+  <img width="1332" height="667" alt="Screenshot 2026-07-27 184318" src="https://github.com/user-attachments/assets/09f77614-151f-4f88-8805-6451c870f2ee" />
+  <img width="1358" height="725" alt="image" src="https://github.com/user-attachments/assets/13927933-2368-401d-9024-b26d32fc5477" />
+
 - Government-service result example:
    - **Arabic**
   <img width="1567" height="927" alt="Screenshot 2026-07-27 122958" src="https://github.com/user-attachments/assets/aa3c2698-d334-4f03-b6db-89b59462b75f" />
@@ -256,7 +258,11 @@ Demo materials:
   <img width="1377" height="905" alt="Screenshot 2026-07-27 123445" src="https://github.com/user-attachments/assets/9406d951-684b-4a71-ae70-d37798c3e20b" />
   <img width="1402" height="905" alt="Screenshot 2026-07-27 123459" src="https://github.com/user-attachments/assets/4d082391-0c71-4b42-af2c-42c984a22a15" />
   
-- Contract-analysis result with visible citations.
+- Contract-analysis result with visible citations:
+  <img width="1342" height="927" alt="Screenshot 2026-07-27 185038" src="https://github.com/user-attachments/assets/ef0f52bd-317b-4254-847a-c92c5e29d97d" />
+  <img width="1312" height="890" alt="image" src="https://github.com/user-attachments/assets/43e9a466-fc54-46c1-8fd2-4370a26bdda0" />
+  <img width="1302" height="926" alt="image" src="https://github.com/user-attachments/assets/d27e393e-4b25-48b6-80fe-6ef59e1aca45" />
+
 - Project pipeline and LangGraph architecture diagram.
    - **LangGraph architecture**
   <img width="1448" height="1086" alt="Langgraph" src="https://github.com/user-attachments/assets/b8edfc23-276a-457f-a2be-46e55f4895a7" />
@@ -265,8 +271,8 @@ Demo materials:
   <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c1aa3aea-ae3d-4e2d-bcd0-bd650b7c59d5" />
 
 
-- A short screen-recorded demo showing both application modes:
-  
+- A short screen-recorded demo showing both application modes
+  Link: 
 
 ---
 
