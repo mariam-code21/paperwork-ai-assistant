@@ -288,12 +288,12 @@ The project delivers a functional bilingual prototype that:
 - Add an **Egyptian legal intelligence layer** using Fine-tuning:
   - Fine-tune the model on Egyptian laws and legislation so it can provide more accurate legal explanations and contract analysis. 
     The fine-tuning dataset should:
-     -- Cover major Egyptian laws, regulations, and commonly referenced legal provisions.
-     -- Include the official law name, law number, year, and relevant article numbers.
-     -- Train the model to connect contract clauses and legal questions with the applicable Egyptian law.
-     -- Improve Egyptian legal terminology and Arabic legal-language understanding.
-     -- Train the model to mention the relevant law and article as a reference in its answer.
-     -- Keep a clear disclaimer that the generated response provides legal information and document assissting not a substitute for professional legal advice.
+      - Cover major Egyptian laws, regulations, and commonly referenced legal provisions.
+      - Include the official law name, law number, year, and relevant article numbers.
+      - Train the model to connect contract clauses and legal questions with the applicable Egyptian law.
+      - Improve Egyptian legal terminology and Arabic legal-language understanding.
+      - Train the model to mention the relevant law and article as a reference in its answer.
+      - Keep a clear disclaimer that the generated response provides legal information and document assissting not a substitute for professional legal advice.
 - Add a **location-aware government-office recommender** that helps users find the nearest places for booking, document submission, and collection:
   - Allow the user to paste a Google Maps or location link.
   - Allow manual selection of the governorate, city, district, or area.
