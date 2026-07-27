@@ -1,0 +1,30 @@
+# Core model and inference
+torch
+transformers==4.52.4
+accelerate
+gptqmodel
+optimum
+huggingface-hub
+
+# LangChain and LangGraph
+langchain
+langchain-classic
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-text-splitters
+langgraph
+
+# RAG and document processing
+faiss-cpu
+sentence-transformers
+pypdf
+
+# Application and structured output
+pydantic
+streamlit
+pyngrok
+
+# Notebook utilities
+numpy
+pandas

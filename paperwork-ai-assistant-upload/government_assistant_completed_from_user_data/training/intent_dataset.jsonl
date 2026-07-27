@@ -1,0 +1,67 @@
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "عايز أجدد البطاقة", "output": "national_id_renewal"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "بطاقتي قربت تنتهي", "output": "national_id_renewal"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "محتاج بطاقة رقم قومي لأول مرة", "output": "national_id_renewal"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "إجراءات استخراج بطاقة شخصية", "output": "national_id_renewal"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "I want to renew my national ID", "output": "national_id_renewal"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "How can I issue my first national ID?", "output": "national_id_renewal"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "بطاقتي ضاعت", "output": "national_id_lost_or_damaged"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "عايز بدل فاقد بطاقة", "output": "national_id_lost_or_damaged"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "بطاقتي اتكسرت", "output": "national_id_lost_or_damaged"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "محتاج بدل تالف", "output": "national_id_lost_or_damaged"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "I lost my ID card", "output": "national_id_lost_or_damaged"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "My national ID is damaged", "output": "national_id_lost_or_damaged"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "عايز أطلع شهادة ميلاد", "output": "birth_certificate"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "محتاج شهادة ميلاد مميكنة", "output": "birth_certificate"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "شهادة ميلاد للطفل", "output": "birth_certificate"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "هل أقدر أطلع شهادة ميلاد أونلاين", "output": "birth_certificate"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "I need a birth certificate", "output": "birth_certificate"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "Can I get a birth certificate online?", "output": "birth_certificate"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "عايز أطلع شهادة وفاة", "output": "death_certificate"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "محتاج شهادة وفاة مميكنة", "output": "death_certificate"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "إجراءات شهادة الوفاة", "output": "death_certificate"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "I need a death certificate", "output": "death_certificate"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "How can I get a death certificate?", "output": "death_certificate"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "عايز أطلع قيد عائلي", "output": "family_record"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "محتاج قيد عائلي للتقديم", "output": "family_record"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "أوراق القيد العائلي", "output": "family_record"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "I need a family record", "output": "family_record"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "Family record documents", "output": "family_record"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "عايز أطلع وثيقة زواج", "output": "marriage_divorce_certificate"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "محتاج قسيمة جواز", "output": "marriage_divorce_certificate"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "عايز وثيقة طلاق", "output": "marriage_divorce_certificate"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "I need a marriage certificate", "output": "marriage_divorce_certificate"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "How can I get a divorce certificate?", "output": "marriage_divorce_certificate"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "عايز أجدد جواز السفر", "output": "passport_renewal"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "محتاج باسبور جديد", "output": "passport_renewal"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "جواز سفري انتهى", "output": "passport_renewal"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "I want to renew my passport", "output": "passport_renewal"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "I need a new passport", "output": "passport_renewal"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "عايز أطلع رخصة قيادة", "output": "driving_license"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "عايز أجدد رخصة القيادة", "output": "driving_license"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "رخصتي خلصت", "output": "driving_license"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "I want to renew my driving license", "output": "driving_license"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "I need a new driving license", "output": "driving_license"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "عايز أجدد رخصة العربية", "output": "vehicle_license"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "رخصة السيارة خلصت", "output": "vehicle_license"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "محتاج أجدد رخصة المركبة", "output": "vehicle_license"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "I want to renew my vehicle license", "output": "vehicle_license"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "My car license expired", "output": "vehicle_license"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "عايز أطلع فيش وتشبيه", "output": "criminal_record"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "محتاج صحيفة حالة جنائية", "output": "criminal_record"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "عايز فيش للعمل", "output": "criminal_record"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "I need a criminal record certificate", "output": "criminal_record"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "Police clearance certificate", "output": "criminal_record"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "عايز أطلع تصريح عمل", "output": "work_permit"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "محتاج أجدد تصريح العمل", "output": "work_permit"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "تصريح العمل للمصريين بالخارج", "output": "work_permit"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "I need a work permit", "output": "work_permit"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "How can I renew my work permit?", "output": "work_permit"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "عايز شهادة إنهاء الخدمة العسكرية", "output": "military_certificate_or_travel_permit"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "محتاج تصريح سفر من التجنيد", "output": "military_certificate_or_travel_permit"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "عايز شهادة إعفاء", "output": "military_certificate_or_travel_permit"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "I need a military service certificate", "output": "military_certificate_or_travel_permit"}
+{"instruction": "Classify the user's government service intent. Return only the service_id.", "input": "How can I get a military travel permit?", "output": "military_certificate_or_travel_permit"}
+{"instruction": "Classify the user's request intent. Return only the intent label.", "input": "اشرحلي العقد ده", "output": "contract_explainer"}
+{"instruction": "Classify the user's request intent. Return only the intent label.", "input": "What does this contract clause mean?", "output": "contract_explainer"}
+{"instruction": "Classify the user's request intent. Return only the intent label.", "input": "مش عارف أحتاج خدمة إيه", "output": "general_government_help"}
+{"instruction": "Classify the user's request intent. Return only the intent label.", "input": "I need help with official papers", "output": "general_government_help"}
