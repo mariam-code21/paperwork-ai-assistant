@@ -212,6 +212,13 @@ tempCodeRunnerFile.py
 # Marimo
 marimo/_static/
 marimo/_lsp/
+# Project temporary files
+contract_*.pdf
+temp_contract_*.pdf
+
+# Optional local secret variants
+.env.*
+!.env.example
 __marimo__/
 
 # Streamlit
