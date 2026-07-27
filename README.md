@@ -260,8 +260,9 @@ Demo materials:
 - Project pipeline and LangGraph architecture diagram.
    - **LangGraph architecture**
   <img width="1448" height="1086" alt="Langgraph" src="https://github.com/user-attachments/assets/b8edfc23-276a-457f-a2be-46e55f4895a7" />
-   - **Pipeline**
+   -  **Pipeline**
   <img width="1447" height="1087" alt="Pipeline" src="https://github.com/user-attachments/assets/2422e3ea-16f5-4d7b-8f79-d0d95fedc523" />
+  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c1aa3aea-ae3d-4e2d-bcd0-bd650b7c59d5" />
 
 
 - A short screen-recorded demo showing both application modes:
