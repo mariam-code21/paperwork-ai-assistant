@@ -17,7 +17,7 @@
 
 # 📖 Project Overview
 
-**Tasheel** is a bilingual AI application that combines two practical services in one Streamlit interface:
+A bilingual AI application that combines two practical services in one Streamlit interface:
 
 1. **Government Services Assistant**  
    Helps users understand Egyptian government procedures by providing the required documents, fees, application steps, service locations, official links, booking links, and important warnings.
@@ -249,18 +249,18 @@ Demo materials:
 - Screenshot of the bilingual home page:
   
 - Government-service result example:
-   - Arabic
+   - **Arabic**
   <img width="1567" height="927" alt="Screenshot 2026-07-27 122958" src="https://github.com/user-attachments/assets/aa3c2698-d334-4f03-b6db-89b59462b75f" />
   <img width="1418" height="921" alt="Screenshot 2026-07-27 123011" src="https://github.com/user-attachments/assets/1396962a-788e-41a0-9be0-d769aabd9045" />
-   - English
+   - **English**
   <img width="1377" height="905" alt="Screenshot 2026-07-27 123445" src="https://github.com/user-attachments/assets/9406d951-684b-4a71-ae70-d37798c3e20b" />
   <img width="1402" height="905" alt="Screenshot 2026-07-27 123459" src="https://github.com/user-attachments/assets/4d082391-0c71-4b42-af2c-42c984a22a15" />
   
 - Contract-analysis result with visible citations.
 - Project pipeline and LangGraph architecture diagram.
-   - LangGraph architecture
+   - **LangGraph architecture**
   <img width="1448" height="1086" alt="Langgraph" src="https://github.com/user-attachments/assets/b8edfc23-276a-457f-a2be-46e55f4895a7" />
-   - Pipeline
+   - **Pipeline**
   <img width="1447" height="1087" alt="Pipeline" src="https://github.com/user-attachments/assets/2422e3ea-16f5-4d7b-8f79-d0d95fedc523" />
 
 
